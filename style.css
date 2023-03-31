@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&family=Roboto:ital,wght@0,700;1,700&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.watch {
+    border: 1px solid gray;
+    padding: 40px;
+    box-shadow: inset -1px 0px 7px 1px;
+}
+
+.hours {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.date {
+    font-size: 36px;
+    font-weight: bold;
+}
